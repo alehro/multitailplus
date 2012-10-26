@@ -1,0 +1,19 @@
+{
+    "in":[
+          {
+              "name":"1",
+              "file":"log1"
+          },
+          {
+              "name":"2",
+              "file":"log2"
+          }
+          ], 
+          
+    "out":[
+           {           
+               "pattern": ".*",
+               "file":"log_merged1"        
+           }           
+           ]
+}
